@@ -18,8 +18,9 @@ This project demonstrates how to build a real-time markdown editor using only co
 - Code syntax highlighting
 - Responsive design works on mobile and desktop
 
-## YouTube Tutorial
-▶️ [Watch the full tutorial: "Build a Powerful Markdown Editor with HTML, CSS & JavaScript"]([https://youtube.com/watch?v=abc123](https://youtu.be/oVxUFhtwHGU))
+## YouTube Tutorial  
+▶️ [Watch the full tutorial: "Build a Powerful Markdown Editor with HTML, CSS & JavaScript"](https://youtu.be/oVxUFhtwHGU)
+
 
 ## How It Works
 The editor captures input in a textarea, passes that content through Marked.js to convert markdown to HTML, and displays the rendered result in the preview pane. Highlight.js automatically adds syntax highlighting to any code blocks.
